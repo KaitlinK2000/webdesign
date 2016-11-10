@@ -1,0 +1,122 @@
+img { width: 100%;}
+
+header {
+	width: 100%;
+	height: 800px;
+	background-image: url(../images/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header h1 { 
+	text-align: center;
+padding-top: 400px;
+font-size: 55px;
+}
+
+header h2 {
+	text-align: center;
+	font-size: 30px;
+	color:#696969;
+}
+
+h1 {
+	margin-top: 40px;
+	text-align: center;
+}
+
+p {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.phoenix {
+	width:667px;
+	height:524px;
+	margin-left: 600px;
+}
+
+.dragon {
+	width: 50%;
+	height: 800px;
+	background-image: url(../images/dragon.jpg);
+	float: left;
+}
+
+
+.dragon2 {
+	width: 50%;
+	height: 800px;
+float: left;
+background-color: gray;
+clear: right;
+}
+
+.thisis {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.adragon {
+	text-align: center;
+	text-decoration: bold;
+	font-size: 30px;
+}
+
+.link {
+	margin-left: 400px;
+	color: #191970;
+}
+
+.aside {
+	width: 25%;
+	height: 500px;
+	float: left;
+}
+.wolf {
+	width: 75%;
+	height: 500px;
+
+	background-image: url(../images/wolf.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+
+    
+}
+.wolfbreeds {
+    position: absolute;
+    margin-left: 8%;
+    font-size: 100px;
+}
+	
+
+.lupus {
+	width:60%;
+	height: 500px;
+	margin-top: 30px;
+}
+
+.rufus {
+	width: 80%;
+	height: 500px;
+	margin-top: 200px;
+}
+
+
+.canislupus {
+	float: left;
+	margin-left: 150px;
+}
+
+.canisrufus {
+	float: left;
+}
+
+.cl {
+	text-align: left;
+}
+
+.cr {
+	text-align: left;
+}
